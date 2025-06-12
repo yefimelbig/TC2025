@@ -6,6 +6,7 @@ Este repositorio contiene el código base para el desarrollo de un compilador co
 ## Authors
 
 - [@jorjolio](https://github.com/Jorjolio)
+- [@yefimthebig](https://github.com/yefimelbig)    
 
 
 ## Appendix
